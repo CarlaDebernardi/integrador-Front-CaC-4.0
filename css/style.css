@@ -1,0 +1,86 @@
+.nav{
+    background-color:#3D474E
+}
+.bt {
+    background:#0FAD20 ;
+}
+.imgFondo{
+    background-image: url(../assets/img/hawaii.jpg);
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+    background-color: #3a3838;
+    background-blend-mode: soft-light ;
+}
+.col-6{
+    color:white;
+    text-align: right;
+    margin-right: 7%;
+}
+
+.presentacion {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.orador1{
+    height: 100%;
+}
+
+
+.b {
+    font-weight: 600;
+    padding: 0%;
+    padding-bottom: 0.5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    border-radius: 5px;
+}
+.b-1{
+    background-color:rgba(245, 210, 9, 0.911) ;
+}
+
+.b-2{
+    background-color:rgba(9, 175, 180, 0.973) ;
+    color: white;
+}
+
+.b-3{
+    background-color:rgba(42, 43, 43, 0.808) ;
+    color: white;
+}
+
+.b-4{
+    background-color:rgba(199, 24, 24, 0.808) ;
+    color: white;
+}
+
+.col2{
+    background-color: #3D474E;
+}
+.descripcion{
+
+color:white;
+}
+
+.bl{
+    background: #a7ee4b;
+}
+.foot{
+    background: rgb(23, 78, 100);
+    color: azure;
+}
+
+.contacto{
+    width: 55%;
+}
+
+.l1{
+    font-size: small;
+    color:rgba(62, 63, 63, 0.808)
+}
+
+.s{
+ 
+    text-decoration-style:dotted;
+}
