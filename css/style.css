@@ -68,7 +68,21 @@ color:white;
 }
 .foot{
     background: rgb(23, 78, 100);
-    color: azure;
+    padding-bottom: 0;
+}
+
+.foot li{
+   
+    width: 120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-color{
+    color: white;
+    text-decoration: none;
+    text-align: center;
 }
 
 .contacto{
